@@ -5,7 +5,6 @@ const Partials = () => {
   return (
       <div>
           <Navbar />
-          
     </div>
   )
 }
